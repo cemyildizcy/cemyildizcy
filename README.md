@@ -1,85 +1,58 @@
-# Hi, I'm Cem Yıldız 👋
+# Cem Yıldız
 
-I'm a Mathematics & Computer Science student at Eskişehir Osmangazi University building **data science, machine learning, and sports analytics products**.
+**Applied Machine Learning & Computational Systems Engineer**  
+Mathematics & Computer Science at Eskişehir Osmangazi University.  
+Specializing in probabilistic simulation, sports analytics, and leakage-free, production-grade ML pipelines.
 
-I focus on turning raw datasets into interactive dashboards, explainable models, and full-stack AI/data applications — especially projects with clear methodology, evaluation, and product storytelling.
+[![Website](https://img.shields.io/badge/Portfolio-cemyildiz.net-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cemyildiz.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cemyildizcy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cemyildizcy)
+[![GitHub](https://img.shields.io/badge/GitHub-cemyildizcy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cemyildizcy)
 
-Currently building: sports analytics simulations, ML dashboards, and case-study driven portfolio projects. See case studies → [cemyildiz.net](https://cemyildiz.net)
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### 🚀 Flagship Engineering & ML Systems
 
-## Best Work
+#### 1. [2026 FIFA World Cup AI Simulator](https://github.com/cemyildizcy/wc2026-ai-simulator)
+*Probabilistic Tournament Engine Modeling 10,000 Monte Carlo Iterations*
+- **Core Engineering:** Multi-source data pipeline (FIFA, World Football Elo, EA FC 25, StatsBomb), bivariate Poisson expected goals (xG) distribution, and vectorized bracket simulation.
+- **Production Standards:** Automated GitHub Actions CI, Pytest unit tests, Ruff linting, PEP 621 packaging, and interactive Streamlit analytics dashboard.
+- **Live Demo:** [wc2026-ai-simulator.streamlit.app](https://wc2026-ai-simulator.streamlit.app/)
+- `Python` `NumPy` `SciPy` `Streamlit` `Pytest` `GitHub Actions` `Plotly`
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [2026 FIFA World Cup AI Simulator](https://github.com/cemyildizcy/wc2026-ai-simulator) | Sports analytics, Poisson xG, Monte Carlo tournament forecasting, Streamlit dashboard | Python, Pandas, Streamlit |
-| [SleepInfo](https://github.com/cemyildizcy/uyku-sagligi-tahmincisi) | End-to-end ML product: XGBoost model, FastAPI backend, React frontend, AI coaching | Python, FastAPI, React, Supabase |
-| [Turkey Earthquake Risk Analysis](https://github.com/cemyildizcy/turkey-earthquake-risk-analysis) | Geospatial analysis, clustering, ML risk classification, public-data storytelling | Python, Scikit-learn, USGS data |
-| [Portfolio](https://github.com/cemyildizcy/cemyildiz-portfolio) | Case-study driven data/ML portfolio site | Next.js, TypeScript, Tailwind |
+#### 2. [SleepInfo Engine](https://github.com/cemyildizcy/uyku-sagligi-tahmincisi)
+*Full-Stack Health Risk Prediction & LLM Coaching Platform*
+- **Core Engineering:** Strict leakage-free feature selection screening out proxy metrics, XGBoost classification engine with 5-fold cross-validation (%95.3 CV accuracy), and Google Gemini 2.5 context-aware reasoning.
+- **Production Standards:** Pydantic v2 input validation schemas, Pytest pipeline verification, FastAPI microservice, Supabase PostgreSQL, and modern React 18 frontend.
+- **Live Demo:** [www.sleepinfo.com.tr](https://www.sleepinfo.com.tr) • [Vercel Mirror](https://uyku-sagligi-tahmincisi.vercel.app)
+- `FastAPI` `XGBoost` `React` `TypeScript` `Supabase` `Pytest` `Docker`
 
-## Currently Focused On
+#### 3. [Turkey Earthquake Risk Analysis](https://github.com/cemyildizcy/turkey-earthquake-risk-analysis)
+*Geospatial Seismic Clustering & Risk Sieve*
+- **Core Engineering:** Automated extraction of 9,300+ seismic events via USGS API, geographical K-Means clustering, and comparative Random Forest vs. SVM risk classification with embedded geospatial heatmaps.
+- `Python` `Scikit-learn` `GeoPandas` `USGS API` `K-Means`
 
-- Data Science & Machine Learning
-- Sports analytics & simulation
-- Interactive analytics dashboards
-- Full-stack AI applications
-- Model evaluation and explainable ML
-- Building polished portfolio projects with clear data, modeling, evaluation, and deployment notes
+#### 4. [CemByeDPI](https://github.com/cemyildizcy/CemByeDPI)
+*Low-Level TCP/IP Packet Dissection & DPI Circumvention Utility*
+- **Core Engineering:** Deep packet inspection bypassing using WinDivert kernel-mode drivers, ClientHello TLS SNI fragmentation, and DNS-over-HTTPS (DoH) resolution.
+- `Python` `WinDivert` `Networking` `TCP/IP` `Cryptographic Handshakes`
 
-## Featured Projects
+---
 
-### 2026 FIFA World Cup AI Simulator
-Monte Carlo tournament simulator for the 48-team 2026 World Cup format.
+### 🛠️ Technical Capabilities & Standards
 
-- Poisson xG match model
-- 10,000 Monte Carlo simulations
-- Streamlit dashboard
-- Updated with real match results and 2026 knockout rules
+| Domain | Production Tools & Standards |
+| :--- | :--- |
+| **Statistical & ML Systems** | Scikit-learn, XGBoost, SciPy, NumPy, Pandas, Vectorized Monte Carlo, Feature Engineering |
+| **Backend & Architecture** | Python 3.11+, FastAPI, Pydantic v2, RESTful APIs, Supabase / PostgreSQL, Cloudflare D1 |
+| **Code Quality & CI/CD** | Pytest, Ruff, PEP 621, GitHub Actions CI, Pre-commit Hooks, Adversarial Security Audits |
+| **Frontend & UI/UX** | TypeScript, React 18/19, Next.js App Router, Tailwind CSS, Impeccable Design System, Plotly |
 
-[Repository](https://github.com/cemyildizcy/wc2026-ai-simulator)
+---
 
-### SleepInfo — AI Sleep Health Predictor
-Full-stack health-tech app for sleep disorder risk prediction.
+### 📊 Engineering Principles
+- **Zero-Leakage Guarantee:** Feature selection strictly validates that no target proxies enter the training pipeline.
+- **Deterministic Reproducibility:** Every simulation and pipeline guarantees reproducible outcomes via seeded RNGs and locked dependency manifests.
+- **Test-First Verification:** Core computational engines are verified through parametric edge cases, input boundary checks, and automated CI quality gates.
 
-- XGBoost model
-- FastAPI backend
-- React/TypeScript frontend
-- Supabase database
-- Gemini AI coaching
-
-[Repository](https://github.com/cemyildizcy/uyku-sagligi-tahmincisi)
-
-### Turkey Earthquake Risk Analysis
-Geospatial data science project analyzing earthquake risk across Turkey.
-
-- USGS earthquake data
-- Clustering
-- Risk classification
-- Map-based analysis
-
-[Repository](https://github.com/cemyildizcy/turkey-earthquake-risk-analysis)
-
-### Personal Portfolio
-A case-study driven portfolio website for data science, ML, and full-stack projects.
-
-- Next.js + TypeScript
-- Project case-study pages
-- Data Lab style portfolio structure
-- Deployed on Vercel
-
-[Repository](https://github.com/cemyildizcy/cemyildiz-portfolio)
-
-## Tech Stack
-
-**Data & ML:** Python · Pandas · NumPy · Scikit-learn · XGBoost · Streamlit · Matplotlib · Plotly
-**Backend & Apps:** FastAPI · Supabase · REST APIs · Data pipelines
-**Frontend:** TypeScript · React · Next.js · Tailwind CSS · Vercel
-**Tools:** Git · GitHub · Jupyter · Anaconda · SQL · Model evaluation
-
-## Let's Connect
-
-Open to internships, data/ML projects, dashboard work, and sports analytics collaborations.
-
-- Portfolio: [cemyildiz.net](https://cemyildiz.net)
-- LinkedIn: [linkedin.com/in/cemyildizcy](https://www.linkedin.com/in/cemyildizcy)
-- GitHub: [github.com/cemyildizcy](https://github.com/cemyildizcy)
+---
+*Open to high-impact machine learning engineering, data science, and quantitative analytics opportunities.*
