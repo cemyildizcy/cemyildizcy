@@ -1,43 +1,12 @@
 # Cem Yıldız
 
-Undergraduate studying Mathematics & Computer Science at Eskişehir Osmangazi University.  
-Working at the intersection of applied probability, machine learning systems, and systems-level tooling.
+Mathematics and Computer Sciences undergraduate at Eskişehir Osmangazi University. I will be in my third year in 2026–27.
 
-I focus on writing deterministic, leak-free statistical models and resilient production backends.
+I am strengthening my foundations in machine learning and deep learning through projects and careful model evaluation. I also build practical software around data and AI.
 
-[Website](https://cemyildiz.net) · [LinkedIn](https://linkedin.com/in/cemyildizcy) · [Email](mailto:cemyildizcy@hotmail.com)
+## Selected work
 
----
+- [GündemAI](https://play.google.com/store/apps/details?id=com.gundemai.app) — an Android news app available on Google Play.
+- [WC2026 AI Simulator](https://github.com/cemyildizcy/wc2026-ai-simulator) — an educational tournament simulator using Poisson distributions and Monte Carlo. It is not a trained machine-learning model.
 
-### Selected Engineering & Research
-
-- **[wc2026-ai-simulator](https://github.com/cemyildizcy/wc2026-ai-simulator)**  
-  Monte Carlo tournament forecaster using bivariate Poisson distributions and multi-source feature ensembles. Built with Streamlit for interactive scenario exploration.
-
-- **[CemByeDPI](https://github.com/cemyildizcy/CemByeDPI)**  
-  Low-level TCP/TLS handshake fragmentation utility on Windows via WinDivert. Intercepts and reshapes packets at the network layer to bypass deep packet inspection.
-
-- **[uyku-sagligi-tahmincisi](https://github.com/cemyildizcy/uyku-sagligi-tahmincisi)**  
-  Sleep disorder risk classification service using leakage-free XGBoost with FastAPI, coupled with structured LLM recommendations.
-
-- **[turkey-earthquake-risk-analysis](https://github.com/cemyildizcy/turkey-earthquake-risk-analysis)**  
-  Geospatial clustering and recurrence analysis on historical seismic event logs retrieved from USGS APIs.
-
----
-
-### Focus & Tooling
-
-```text
-Foundations   :: Applied Probability, Linear Algebra, Discrete Math
-Modeling      :: XGBoost, Scikit-learn, SciPy, Pandas, NumPy
-Systems & Web :: Python (FastAPI), TypeScript, Next.js, Cloudflare Workers
-Data & Ops    :: PostgreSQL, Supabase, SQLite, Git, Linux
-```
-
----
-
-### Principles
-
-- **No data leakage:** Preprocessing and transformations strictly fit on training splits.
-- **Deterministic by default:** Seeded RNGs, benchmarked baselines, explicit assumptions.
-- **Verify before shipping:** Comprehensive unit tests over raw intuition.
+[Portfolio](https://cemyildiz.net) · [LinkedIn](https://www.linkedin.com/in/cemyildizcy/) · [X](https://x.com/cemyildizcy) · [Email](mailto:cemyildizcy@hotmail.com)
