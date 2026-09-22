@@ -6,7 +6,7 @@ I am strengthening my foundations in machine learning and deep learning through 
 
 ## Selected work
 
-- [GündemAI](https://play.google.com/store/apps/details?id=com.gundemai.app) — an Android news app available on Google Play.
+- [GündemAI](https://play.google.com/store/apps/details?id=com.gundemai.app) — an Android news app in closed testing.
 - [WC2026 AI Simulator](https://github.com/cemyildizcy/wc2026-ai-simulator) — an educational tournament simulator using Poisson distributions and Monte Carlo. It is not a trained machine-learning model.
 
-[Portfolio](https://cemyildiz.net) · [LinkedIn](https://www.linkedin.com/in/cemyildizcy/) · [X](https://x.com/cemyildizcy) · [Email](mailto:cemyildizcy@hotmail.com)
+[Portfolio](https://cemyildiz.net) · [LinkedIn](https://www.linkedin.com/in/cemyildizcy/) · [X](https://x.com/overfitcem) · [Email](mailto:cemyildizcy@hotmail.com)
