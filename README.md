@@ -4,6 +4,14 @@ Mathematics and Computer Sciences undergraduate at Eskişehir Osmangazi Universi
 
 I am strengthening my foundations in machine learning and deep learning through projects and careful model evaluation. I also build practical software around data and AI.
 
+## Team experience
+
+**Software Team Member — [Earendil Rover Team](https://www.linkedin.com/company/earendil-rover-team/)**
+
+October 2026 – Present · Eskişehir, Türkiye
+
+Member of the software department of the rover team under the IEEE Eskişehir Technical University Student Branch.
+
 ## Selected work
 
 - [Bike Demand: Temporal ML](https://github.com/cemyildizcy/bike-demand-temporal-ml) — a chronological benchmark on the [UCI Bike Sharing dataset](https://doi.org/10.24432/C5W894). The selected calendar-plus-observed-weather ridge model reports final-test MAE 77.79 bikes versus 103.54 for a seasonal-naive baseline. One city, two years; observed weather is not an advance forecast.
